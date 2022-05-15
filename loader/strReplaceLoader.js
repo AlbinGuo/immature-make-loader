@@ -1,6 +1,6 @@
-const loaderUtils = require('loader-utils')
+const { getOptions } = require('loader-utils')
 
 module.exports = function(source) {
-  const options = loaderUtils.getOptions(this)
+  const options = getOptions(this)
   return source.replace('guo', options.chiniseName)
 }
