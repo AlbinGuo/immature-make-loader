@@ -15,7 +15,7 @@
   \**********************/
 /***/ (() => {
 
-eval("console.log('xiao 南')\n\n//# sourceURL=webpack://immature-make-loader/./src/index.js?");
+eval("console.log('xiao annnnn')\n\n//# sourceURL=webpack://immature-make-loader/./src/index.js?");
 
 /***/ })
 

@@ -17,7 +17,7 @@ module.exports = {
           {
             loader: path.resolve(__dirname, './loader/strReplaceLoader.js'), // 'babel-loader',
             options: {
-              chiniseName: '南'
+              chiniseName: 'annnnn'
             }
           }
         ]
